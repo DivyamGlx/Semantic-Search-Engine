@@ -13,6 +13,12 @@ This project was developed by:
 
 > **Project status:** Research prototype implemented in a Google Colab notebook. The notebook launches a temporary Gradio demo, but there is no permanent hosted demo link in this repository.
 
+## My Contribution
+
+**Divyam Sahu — Sentence-BERT (SBERT)**
+
+Worked on the SBERT-based retrieval approach, using sentence embeddings to represent queries and passages and FAISS to retrieve semantically relevant documents. Contributed to the comparison of SBERT against Word2Vec-based query expansion and the hybrid approach.
+
 ## What it does
 
 - Preprocesses a subset of MS MARCO passages and trains a 300-dimensional Word2Vec model.
