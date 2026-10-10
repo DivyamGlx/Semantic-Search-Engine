@@ -65,10 +65,8 @@ semantic-search-engine/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── notebooks/
-│   └── semantic_search_engine.ipynb
-└── docs/
-    └── semantic_search_project_paper.pdf
+├── semantic_search_engine.ipynb
+└── Semantic_Search_Engine_Paper.pdf
 ```
 
 The notebook in this repository has had its saved cell outputs cleared to remove stale runtime logs and a temporary Gradio URL. Run the cells to regenerate outputs.
