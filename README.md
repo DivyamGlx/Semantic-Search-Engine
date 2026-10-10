@@ -2,6 +2,15 @@
 
 A course project exploring semantic document retrieval on the MS MARCO v2.1 dataset. The notebook compares three retrieval strategies: Word2Vec with query expansion, Sentence-BERT (SBERT), and a hybrid pipeline that retrieves candidates with Word2Vec and reranks them with SBERT.
 
+## Project Team
+
+This project was developed by:
+
+- **Manemoni Sumanjali**
+- **Sidda Divya**
+- **Atragada Venkata Naga Sai Ganesh**
+- **Divyam Sahu**
+
 > **Project status:** Research prototype implemented in a Google Colab notebook. The notebook launches a temporary Gradio demo, but there is no permanent hosted demo link in this repository.
 
 ## What it does
@@ -67,6 +76,10 @@ semantic-search-engine/
 ├── .gitignore
 ├── semantic_search_engine.ipynb
 └── Semantic_Search_Engine_Paper.pdf
+└── assets
+      └── Demo.jpeg
+      └── Model Comparision Across Metrics.jpeg
+      └── Query Expansion Experiment.jpeg
 ```
 
 The notebook in this repository has had its saved cell outputs cleared to remove stale runtime logs and a temporary Gradio URL. Run the cells to regenerate outputs.
